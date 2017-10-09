@@ -1,11 +1,11 @@
 ---
 title: Beda Konveksi CMT, FOB, Apparel dan Konveksi Seragam
-date: 2016-12-30 00:00:00 Z
-layout: post
+date: 2016-12-30 07:00:00 +07:00
 redirect_from: "/2016/12/beda-konveksi-cmt-fob-apparel-dan.html"
+layout: post
 ---
 
-Kemarin ada calon customer menanyakan apakah bisa kami menjait kaoskaki untuk keperluan tender pengadaan di salah satu institusi pemerintahan. Dengan pasti saya menjawab tidak bisa. Kenapa? Bukan karena kami tidak tertarik namun lebih ke arah bukan spesifikasi kami.
+Kemarin ada calon customer menanyakan apakah bisa kami menjait kaos kaki untuk keperluan tender pengadaan di salah satu institusi pemerintahan. Dengan pasti saya menjawab tidak bisa. Kenapa? Bukan karena kami tidak tertarik namun lebih ke arah bukan spesifikasi kami.
 <!--more-->
 Tidak lama sebelumnya juga pernah ada yang menanyakan apakah konveksi kami menerima pembuatan produk distro. Kami menjawab produk distro yang seperti apa dulu? Beliau menjawab banyak macamnya dari kaos, kemeja sampai topi. Kami menjawab sebagian bisa kami kerjakan seperti kaos dan kemeja.
 
