@@ -10,7 +10,7 @@ Kemarin ada calon customer menanyakan apakah bisa kami menjait kaos kaki untuk k
 <!--more-->
 Tidak lama sebelumnya juga pernah ada yang menanyakan apakah konveksi kami menerima pembuatan produk distro. Kami menjawab produk distro yang seperti apa dulu? Beliau menjawab banyak macamnya dari kaos, kemeja sampai topi. Kami menjawab sebagian bisa kami kerjakan seperti kaos dan kemeja.
 
-Poin cerita dari kejadian diatas adalah konveksi itu banyak macamnya. Dibedakan berdasarkan produk yang dihasilkan masih dalam koridor busana atau metode deliverynya. Yuk mari kita bahas satu satu.
+Poin cerita diatas adalah konveksi itu banyak macamnya. Dibedakan berdasarkan produk yang dihasilkan masih dalam koridor busana atau metode deliverynya. Yuk mari kita bahas satu satu.
 
 ## Konveksi Berdasarkan Metode Deliverynya
 Yang paling populer adalah:
