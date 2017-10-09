@@ -1,8 +1,9 @@
 ---
 title: Menerima Pembuatan Woven Label Baju
-permalink: /menerima-pembuatan-label-baju.html
+permalink: "/menerima-pembuatan-label-baju.html"
 is_post: true
 ---
+
 ![Menerima pembuatan label baju]({{ site.baseurl }}/images/buat-label-baju-jakarta.jpg)
 
 Halo bingung mau bikin label dimana? Kan ga lucu baju sudah jadi tapi label belum ada.

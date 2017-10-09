@@ -1,5 +1,6 @@
 ---
 title: Buat seragam Ada Bordirnya, Berapa Sih Harganya?
+date: 2016-12-22 00:00:00 Z
 ---
 
 Dari sekian banyak WA yang masuk pasti ada 1 2 yang ingin membuat seragam plus bordir dan menanyakan harga pasti. Mohon maaf bapak ibu, khusus kemeja atau seragam berbordir kita tidak bisa langsung menentukan harga pastinya. Kami harus mengetahui sebanyak dan sebesar apa bidang bordirnya.<!--more-->

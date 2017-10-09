@@ -1,10 +1,11 @@
 ---
-layout: page
 title: Daftar Harga Konveksi Celana
 permalink: daftar-harga-jahit-celana.html
+layout: page
 is_post: true
-redirect_from: /p/daftar-harga-jahit-celana.html
+redirect_from: "/p/daftar-harga-jahit-celana.html"
 ---
+
 ![Makloon jahit celana chino]({{ site.baseurl }}/images/terima-jahit-celana-depok-konveksi.jpg)
 
 Anda ingin menjahit celana untuk kebutuhan pengadaan seragam kantor? Untuk distro? atau bahkan untuk OL Shop anda?

@@ -1,8 +1,10 @@
 ---
 title: Jasa Konveksi Kemeja Pria Start Rp 35.000
-permalink: /jasa-konveksi-kemeja-pria.html
-redirect_from: /2015/11/jasa-konveksi-kemeja-pria-start-rp-35000.html
+date: 2015-11-20 00:00:00 Z
+permalink: "/jasa-konveksi-kemeja-pria.html"
+redirect_from: "/2015/11/jasa-konveksi-kemeja-pria-start-rp-35000.html"
 ---
+
 ![Makloon jahit seragam murah]({{ site.baseurl }}/images/maklon-konveksi-kemeja-jakarta.jpg)
 
 **Kami menerima jasa pembuatan kemeja pria.** Jasa konveksi kami terleteak di kawasan jakarta selatan dan depok. Harga konveksi kemeja dangat bervariatif tergantung tingkat kesulitan dan jumlahnya.

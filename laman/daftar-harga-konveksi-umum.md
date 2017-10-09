@@ -1,7 +1,8 @@
 ---
 title: Harga Umum Jasa Konveksi
-permalink: /daftar-harga-konveksi-umum.html
+permalink: "/daftar-harga-konveksi-umum.html"
 ---
+
 Minimal qty 4 KODI dapat 2-3 Model,
 
 ## Rata-rata daftar harga jahit CMT (Kain dari Anda):

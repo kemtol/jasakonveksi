@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Selamat Datang di Jasakonveksi Jakarta
-redirect_from:
-- /2015/02/halo-selamat-datang-di-jasa-konveksi.html
-- /post/159295899312/halo-selamat-datang-di-jasa-konveksi-jakarta
+date: 2015-02-10 00:00:00 Z
 tags:
 - konveksi jakarta
 - konveksi depok
 - konveksi seragam
+layout: post
+redirect_from:
+- "/2015/02/halo-selamat-datang-di-jasa-konveksi.html"
+- "/post/159295899312/halo-selamat-datang-di-jasa-konveksi-jakarta"
 ---
 
 ![Konveksi murah jakarta]({{ site.baseurl }}/images/maklun-distro-baju-kemeja-depok.jpg) 
