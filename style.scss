@@ -212,7 +212,7 @@ img {
 	margin-top: -3rem;
 	background: white;
 	position: relative;
-	padding: 1.5rem 1rem;
+	padding: 1.5rem 3rem;
 	@include mobile {
 		margin-top:0;
 		display: block;
@@ -222,13 +222,17 @@ img {
 }
 
 .site-name {
-	margin: 0.5rem 0;
+	margin: 0.5rem 0 2rem;
 	color: $darkGray;
 	cursor: pointer;
 	font-family: $helveticaNeue;
 	font-weight: bold;
-	font-size: 4.5vh;
+	font-size: 6.5vh;
 	line-height:initial;
+	@include mobile {
+		margin-bottom:1rem;
+		font-size: 5vh;
+	}
 }
 
 .site-description {
