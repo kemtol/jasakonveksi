@@ -248,6 +248,9 @@ img {
 		margin: 2rem 0;
 		border-radius: 30px;
 		font-size: 4vh;
+		@include mobile {
+			font-size:24px;
+		}
 	}
 	a.no-hp:hover{
 		background:limegreen;
