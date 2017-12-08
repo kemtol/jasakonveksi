@@ -169,15 +169,16 @@ img {
 	height: 50vh;
 	margin-right: 15px;
 	overflow: hidden;
-	    display: block;
+    	display: block;
 	position: relative;
 	border-radius: 5px;
 
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
+	@include mobile {
+		height:25vh;
+		float: none;
+		display: block;
+		margin: 0 auto;
+	}
   span.back-to-home{
 	position: absolute;
 	top: 50%;
@@ -212,20 +213,22 @@ img {
 	background: white;
 	position: relative;
 	padding: 1.5rem 1rem;
-	  @include mobile {
-	    display: block;
-	    margin: 0 auto;
-	  }
+	@include mobile {
+		margin-top:0;
+		display: block;
+		margin: 0 auto;
+		padding:0;
+	}
 }
 
 .site-name {
-  margin: 0.5rem 0;
-  color: $darkGray;
-  cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: bold;
-  font-size: 28px;
-  letter-spacing: 1px;
+	margin: 0.5rem 0;
+	color: $darkGray;
+	cursor: pointer;
+	font-family: $helveticaNeue;
+	font-weight: bold;
+	font-size: 28px;
+	line-height:0;
 }
 
 .site-description {
