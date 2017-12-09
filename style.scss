@@ -274,16 +274,17 @@ a.no-hp:hover{
 #menutop{
 	list-style:none;
 	display:inline-block;
-	margin:5rem 0;
+	margin:3rem 0;
 	width:100%;
+	padding:0;
 	li{
 		float:left;
 		width:calc(25% - 20px);
 		text-align:center;
 		margin:5px 10px;
 		font-weight:bold;
-		color:#fff;
-		letter-spacing: 1px;
+		color:#111;
+		font-family: $helveticaNeue;
 		a{
 			display:block;
 			height:100%;
