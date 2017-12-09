@@ -41,7 +41,7 @@ footer-links:
 disqus: jasakonveksi
 google_analytics: UA-74059274-3
 url: http://jasakonveksi.com
-baseurl: http://www.jasakonveksi.com 
+baseurl: http://www.jasakonveksi.com
 permalink: "/:title/"
 excerpt_separator: "<!--more-->"
 version: v1.2.0
