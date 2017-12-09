@@ -150,6 +150,10 @@ img {
 	float:left;
 	width:49.99%;
 	padding:0 10px;
+	@include mobile{
+		width:100%;
+		float:none;
+	}
 }
 
 #upper--top{
@@ -322,6 +326,14 @@ a.no-hp:hover{
 	}
 	@include mobile{padding:0;margin-bottom:1rem;}
 }
+
+.sect{
+	border-bottom:1px solid #111;
+	@include mobile{
+		padding-bottom:2rem;
+	}
+}
+
 //
 // .main
 //
