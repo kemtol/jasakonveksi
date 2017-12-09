@@ -183,6 +183,9 @@ img {
     	display: block;
 	position: relative;
 	border-radius: 5px;
+	background:url(https://raw.githubusercontent.com/kemtol/jasakonveksi/master/images/jasa-konveksi-jakarta-depok.gif) no-repeat;
+	background-size:cover;
+	background-position:center center;
 
 	@include mobile {
 		height:25vh;
@@ -208,13 +211,6 @@ img {
 		  letter-spacing: initial;font-weight: 300;font-family: initial;font-style: italic;
 	  }
 	}
-  img {
-	width:100%;
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-  }
 }
 
 .site-info {
