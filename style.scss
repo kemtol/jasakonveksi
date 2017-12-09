@@ -301,10 +301,11 @@ a.no-hp:hover{
 	h2{
 		margin-bottom:0;
 		a{
-			color:navy;
+			color:#111;
 		}
 		a:hover{
-			color:#111;
+			color:#333;
+			text-decoration:underline;
 			
 		}
 	}
@@ -316,26 +317,29 @@ a.no-hp:hover{
 }
 
 .post {
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
-  }
+	blockquote {
+		margin: 1.8em .8em;
+		border-left: 2px solid $gray;
+		padding: 0.1em 1em;
+		color: $gray;
+		font-size: 22px;
+		font-style: italic;
+	}
 
-  .comments {
-	margin-top: 2.5rem;
-	padding: 2.5rem;
-	border-top: 1px solid #ccc;
-	background: #f9f9f9;
-  }
+	.comments {
+		margin-top: 2.5rem;
+		padding: 2.5rem;
+		border-top: 1px solid #ccc;
+		background: #f9f9f9;
+	}
 
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
+	.read-more {
+		font-size: 1.125rem;
+		font-family: georgia;
+	}
+	.read-more:after{
+		content:'\27F6';
+	}
 }
 
 .page{
