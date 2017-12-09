@@ -236,13 +236,14 @@ img {
 }
 
 .site-description {
-    margin: 0;
-    color: #333;
-    font-size: 3.75vh;
+	margin: 0;
+	color: #333;
+	font-size: 3.75vh;
+	font-family:georgia;
 
-  @include mobile {
-    margin: 3px 0;
-  }
+	@include mobile {
+		margin: 3px 0;
+	}
 	a.no-hp{
 		background: lime;
 		color: #fff;
