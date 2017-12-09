@@ -150,6 +150,17 @@ img {
 // .masthead
 //
 
+#upper--top{
+	text-align: center;
+	padding: 0.5rem;
+	background:yellow;
+	strong{
+		@include mobile {
+			display:block;
+		}
+	}
+}
+
 .wrapper-masthead {
   margin-bottom: 50px;
 }
