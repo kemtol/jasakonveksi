@@ -255,7 +255,7 @@ a.no-hp{
 	margin: 2rem 0;
 	border-radius: 30px;
 	font-size: 4vh;
-	
+	font-family: $helveticaNeue;	
 	@include mobile {
 		font-size:24px;
 	}
@@ -361,6 +361,9 @@ a.no-hp:hover{
 footer {
   padding: 20px 0;
   text-align: center;
+	  strong{
+		  font-family: $helveticaNeue;
+	}
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
