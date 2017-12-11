@@ -333,6 +333,9 @@ a.no-hp:hover{
 	@include mobile{
 		padding-bottom:2rem;
 	}
+	.img-responsive{
+		display:inherit;
+	}
 }
 
 //
