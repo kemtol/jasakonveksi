@@ -146,9 +146,17 @@ img {
 /* LAYOUT / SECTIONS */
 /*********************/
 
+.col-60{
+	width:59.9%
+}
 .col-50{
+	width:49.9%
+}
+.col-40{
+	width:39.9%	
+}
+.col-60,.col-50,.col-40{
 	float:left;
-	width:49.99%;
 	padding:0 10px;
 	@include mobile{
 		width:100%;
