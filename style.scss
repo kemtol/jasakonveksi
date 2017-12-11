@@ -221,6 +221,7 @@ img {
 
 .site-info {
 	width: 80vw;
+	max-width:1200px;
 	margin: auto;
 	margin-top: -3rem;
 	background: white;
@@ -267,7 +268,7 @@ a.no-hp{
 	display: inline-block;
 	margin: 2rem 0;
 	border-radius: 30px;
-	font-size: 4vh;
+	font-size: 2rem;
 	font-family: $helveticaNeue;	
 	@include mobile {
 		font-size:24px;
@@ -407,6 +408,19 @@ footer {
 	  strong{
 		  font-family: $helveticaNeue;
 	}
+}
+
+@media screen and (min-width: 1440px) {
+	.site-avatar{
+		height:35vh;
+	}
+	.site-name{
+		font-size:4rem;
+	}
+	.site-description{
+		font-size:2rem;
+	}
+	
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
