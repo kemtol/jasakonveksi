@@ -1,8 +1,11 @@
 ---
 layout: default
 ---
-
-<div class="posts">
+{% if page.is_post != true %}
+  <div class="posts col-50" style="width:59.9%">
+{% else %}
+  <div class="posts">
+{% endif %}
   {% for post in site.posts %}
     <article class="post">
 
