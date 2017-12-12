@@ -37,7 +37,7 @@ Kemal **0838 907 22797** (WA/Telp)
   $("#HargaBag tbody").html("");
   $.each( tabletop.sheets("FOBKemeja").all(), function(i, fob) {
     var cat_li = $('<tr><td><strong>' + fob.Jenis + '</strong></td>');
-  cat_li.append('<td class="nm">Rp ' + fob.1-24pcs + ' </td><td class="nm">Rp '+ fob.25-60pcs +'</td><td class="nm">Rp '+ fob.62-120pcs +'</td><td class="nm">Rp ' + fob.121-240pcs +'</td></tr>');
+  cat_li.append('<td class="nm">Rp ' + fob.Kecil + ' </td><td class="nm">Rp '+ fob.Sedang +'</td><td class="nm">Rp '+ fob.Besar +'</td><td class="nm">Rp ' + fob.Jumbo +'</td></tr>');
     cat_li.appendTo("#HargaBag tbody");
   })
   }
