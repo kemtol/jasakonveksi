@@ -170,6 +170,12 @@ img {
 		background:#eee;
 		margin:1rem 0;
 		background:aliceblue;
+		strong{
+			text-align:center;
+			display:block;
+			font-family:$helveticaNeue;
+			font-size:1rem;
+		}
 	}
 }
 
