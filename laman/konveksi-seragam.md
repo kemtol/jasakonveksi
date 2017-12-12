@@ -6,7 +6,7 @@ is_post: true
 ---
 
 <div class="table-responsive">
-<table class="post-tab-1" id="HargaFobSeragam" width="100%">
+<table class="post-tab-1" id="HargaFobSeragam">
 <thead>
 <tr>
   <th width="28%">Jumlah</th>
