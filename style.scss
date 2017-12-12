@@ -244,6 +244,12 @@ img {
 	background: white;
 	position: relative;
 	padding: 1.5rem 3rem;
+	h1{
+		a:hover{
+			color:#111;
+			text-decoration:underline;
+		}
+	}
 	@include mobile {
 		margin-top:0;
 		display: block;
