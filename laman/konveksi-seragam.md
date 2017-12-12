@@ -6,10 +6,10 @@ is_post: true
 ---
 
 <div class="table-responsive">
-<table class="post-tab-1" id="HargaFobSeragam">
+<table class="post-tab-1" id="HargaFobSeragam" width="100%">
 <thead>
 <tr>
-  <th style="background: aliceblue;" width="28%"></th>
+  <th width="28%"></th>
   <th width="18%">1 - 24 pcs</th>
   <th width="18%">25 - 60 pcs</th>
   <th width="18%">61 - 120 pcs</th>
