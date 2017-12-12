@@ -6,7 +6,7 @@ is_post: true
 ---
 
 <div class="table-responsive">
-<table class="post-tab-1" id="HargaBag">
+<table class="post-tab-1" id="HargaFobSeragam">
 <thead>
 <tr>
   <th style="background: aliceblue;" width="28%"></th>
@@ -28,17 +28,17 @@ is_post: true
 ## Lokasi Maklun Jait Seragam
 Jl. Merpati 3 komplek griya cinere, limo, depok , 16515.
 
-## Contact Konveksi Seragam Jakarta Depok
+### Contact Konveksi Seragam Jakarta Depok
 Kemal **0838 907 22797** (WA/Telp)
 
 <script type="text/javascript">
   function showInfo(data, tabletop) {
   
-  $("#HargaBag tbody").html("");
+  $("#HargaFobSeragam tbody").html("");
   $.each( tabletop.sheets("FOBKemeja").all(), function(i, fob) {
     var cat_li = $('<tr><td><strong>' + fob.Jenis + '</strong></td>');
   cat_li.append('<td class="nm">Rp ' + fob.Kecil + ' </td><td class="nm">Rp '+ fob.Sedang +'</td><td class="nm">Rp '+ fob.Besar +'</td><td class="nm">Rp ' + fob.Jumbo +'</td></tr>');
-    cat_li.appendTo("#HargaBag tbody");
+    cat_li.appendTo("#HargaFobSeragam tbody");
   })
   }
 </script>
