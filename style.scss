@@ -164,6 +164,19 @@ img {
 	}
 }
 
+.table-responsive{
+	table{
+		tr{
+			th{
+				padding:1rem;
+			}
+			td{
+				padding:1rem;
+			}
+		}
+	}
+}
+
 .side-bar{
 	div{
 		padding:1rem;
