@@ -5,7 +5,6 @@ layout: page
 is_post: true
 ---
 
-
 ## Lokasi Maklun Jait Seragam
 Jl. Merpati 3 komplek griya cinere, limo, depok , 16515.
 
