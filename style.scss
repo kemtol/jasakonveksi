@@ -180,21 +180,31 @@ img {
 			background: aliceblue;
 			tr{
 				th{
-					padding:1rem;
+					padding:1rem 0.75rem;
+				}
+				th:first-child{
+					text-align: left;
+					font-weight:bold;
+					background:#f9f9f9;
 				}
 			}
 		}
 		tbody{
 			tr{
 				td{
-					padding: 2rem 0.5rem;
+					padding: 2rem 0.75rem;
 					border-bottom: 1px dotted #999;
 					text-align: center;
+				}
+				td:first-child{
+					text-align: left;
+					background:#f9f9f9;
 				}
 			}
 		}
 		@include mobile {
 			width:720px;
+			border-right:1px solid #111;
 		}
 	}
 }
