@@ -9,7 +9,7 @@ is_post: true
 <table class="post-tab-1" id="HargaFobSeragam" width="100%">
 <thead>
 <tr>
-  <th width="28%"></th>
+  <th width="28%">Jumlah</th>
   <th width="18%">1 - 24 pcs</th>
   <th width="18%">25 - 60 pcs</th>
   <th width="18%">61 - 120 pcs</th>
