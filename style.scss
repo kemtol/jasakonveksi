@@ -229,6 +229,7 @@ img {
 	text-align: center;
 	padding: 0.5rem;
 	background:yellow;
+	background:#ffdb19;
 	strong{
 		@include mobile {
 			display:block;
@@ -241,13 +242,14 @@ img {
 }
 
 .masthead {
-  padding: 0;
-  border-bottom: 2px solid $black;
-  text-align:center;
+	padding: 0;
+	border-bottom: 2px solid $black;
+	text-align:center;
+	background:#ffffe5;
 
-  @include mobile {
-    text-align: center;
-  }
+	@include mobile {
+		text-align: center;
+	}
 }
 
 .site-avatar {
@@ -293,7 +295,7 @@ img {
 	max-width:1200px;
 	margin: auto;
 	margin-top: -3rem;
-	background: white;
+	background: #ffffe5;
 	position: relative;
 	padding: 1.5rem 3rem;
 	h1{
