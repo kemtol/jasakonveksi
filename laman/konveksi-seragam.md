@@ -34,7 +34,7 @@ Pemesanan bisa dilakukan melalui WA, cukup klik link diatas tabel. Beberapa kete
 - Waktu pengerjaan adalah 14 hari kerja. 
 
 ## Katalog Bahan dan Warna
-Katalog bahan dan warna untuk drill dan tropikal bisa anda lihat disini.
+Katalog bahan dan warna untuk drill dan tropikal bisa anda lihat disini. Klik untuk memperbesar dan zoom.
 
 <a href="{{site.baseurl}}/uploads/katalog-bahan-taipan-drill.jpg"><img src="{{site.baseurl}}/uploads/katalog-bahan-taipan-drill.jpg"
  /></a>
