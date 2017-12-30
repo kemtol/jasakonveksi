@@ -33,6 +33,12 @@ Pemesanan bisa dilakukan melalui WA, cukup klik link diatas tabel. Beberapa kete
 - Harga diluar ongkos kirim, terpisah dan bisa diambil di tempat jika mau irit.
 - Waktu pengerjaan adalah 14 hari kerja. 
 
+## Katalog Bahan dan Warna
+Katalog bahan dan warna untuk drill dan tropikal bisa anda lihat disini.
+
+<a href="{{site.baseurl}}/uploads/katalog-bahan-taipan-drill.jpg"><img src="{{site.baseurl}}/uploads/katalog-bahan-taipan-drill.jpg"
+ /></a>
+
 ## Lokasi Maklun Jait Seragam
 Jl. Merpati 3 komplek griya cinere, limo, depok , 16515.
 
