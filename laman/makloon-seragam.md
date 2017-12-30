@@ -7,12 +7,12 @@ layout: page
 ---
 
 Kami menerima **jahit seragam konveksi CMT ataupun FOB**
-1. FOB Full Order Buy (Terima beres)
-2. CMT Cut Make Trim (Jasa saja kain bawa sendiri)
+1. FOB / Full Order Buy (Terima beres)
+2. CMT / Cut Make Trim (Jasa saja kain bawa sendiri)
 
 Perhitungan bisa berupa satuan (atasan saja atau bawahan saja) ataupun set. Untuk perhitungan pembuatan seragam secara set rata-rata lebih murah hingga Rp 20.000 tergantung model dan tambahan aplikasi seperti bordir. 
 
-## FOB / Full Order Buy / Terima Beres
+## 1. FOB / Full Order Buy (Terima beres)
 Untuk FOB pilihan kain yang bisa anda pilih adalah:
 1. Drill.
 2. Tropical.
@@ -20,7 +20,7 @@ Untuk FOB pilihan kain yang bisa anda pilih adalah:
 
 <a href="{{site.baseurl}}/daftar-harga-seragam-plus-bordir.html">Klik untuk price list FOB</a> 
 
-## CMT / Cut Make Trim / Kain bawa sendiri
+## 2. CMT / Cut Make Trim (Kain bawa sendiri)
 Untuk CMT anda membawa kain sendiri, harga 
 
 ### Daftar Harga Maklun Jait Seragam CMT 
