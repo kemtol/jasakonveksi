@@ -245,7 +245,7 @@ img {
 	padding: 0;
 	border-bottom: 2px solid $black;
 	text-align:center;
-	background:#ffffe5;
+	background:#fff;
 
 	@include mobile {
 		text-align: center;
@@ -295,7 +295,7 @@ img {
 	max-width:1200px;
 	margin: auto;
 	margin-top: -3rem;
-	background: #ffffe5;
+	background: #fff;
 	position: relative;
 	padding: 1.5rem 3rem;
 	h1{
