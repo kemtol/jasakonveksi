@@ -3,6 +3,8 @@ title: Bahan Yang Bagus Untuk Jahit Seragam Yang Mana?
 date: 2017-12-30 14:43:00 +07:00
 ---
 
+![katalog-bahan-taipan-drill.jpg](/uploads/katalog-bahan-taipan-drill.jpg)
+
 Banyak WA yang masuk ke saya, bahan yang bagus untuk seragam itu apa mas? yang murah ya?
 
 Nah, bahan yang bagus itu sudah pasti tidak lebih murah. Bahan yang murah pun belum tentu tidak bagus. Yang benar adalah gunakan bahan sesuai kebutuhan.
