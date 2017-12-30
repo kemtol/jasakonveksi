@@ -1,8 +1,8 @@
 ---
 title: Daftar Harga Jahit Seragam Bordir Bahan Drill dan Tropical
 permalink: daftar-harga-seragam-plus-bordir.html
-layout: page
 is_post: true
+layout: page
 ---
 
 <div class="table-responsive">
@@ -25,10 +25,18 @@ is_post: true
 </table>
 </div>
 
+## Pemesanan Konveksi Seragam FOB (Full Order Buy)
+Pemesanan bisa dilakukan melalui WA, cukup klik link diatas tabel. Beberapa ketentuan khusus untuk pemesanan jahit seragam adalah:
+- Harga diatas adalah harga jadi bersih, kain sudah termasuk.
+- Jumlah minimal pemesanan per model/design adalah 24pcs. Warna bisa dibagi 2 namun untuk design seperti bordir haruslah sama.
+- Harga diskon dan nego dilakukan di konveksi, atau melalui WA.
+- Harga diluar ongkos kirim, terpisah dan bisa diambil di tempat jika mau irit.
+- Waktu pengerjaan adalah 14 hari kerja. 
+
 ## Lokasi Maklun Jait Seragam
 Jl. Merpati 3 komplek griya cinere, limo, depok , 16515.
 
-### Contact Konveksi Seragam Jakarta Depok
+## Contact Konveksi Seragam Jakarta Depok
 Kemal **0838 907 22797** (WA/Telp)
 
 <script type="text/javascript">
