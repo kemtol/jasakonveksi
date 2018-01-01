@@ -1,12 +1,12 @@
 ---
 title: Selamat Datang di Jasakonveksi Jakarta
-date: 2015-02-10 00:00:00 Z
+date: 2015-02-10 07:00:00 +07:00
+permalink: "/konveksi-seragam-di-depok.html"
 tags:
 - konveksi jakarta
 - konveksi depok
 - konveksi seragam
 layout: post
-permalink: /konveksi-seragam-di-depok.html
 redirect_from:
 - "/2015/02/halo-selamat-datang-di-jasa-konveksi.html"
 - "/post/159295899312/halo-selamat-datang-di-jasa-konveksi-jakarta"
