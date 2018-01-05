@@ -6,4 +6,12 @@ is_landing: true
 layout: landing
 ---
 
-Terima sablon kaos satuan
+<div class="container">
+  
+</div>
+<div class="container">
+  <h1>Sablon kaos satuan</h1>
+</div>
+<div>
+  
+</div>
