@@ -26,6 +26,14 @@
       </style>
     {% endif %}
     
+    {% if page.is_home == true %}
+      <style>
+        header{
+          border-bottom:2px solid #111;
+        }
+      </style>
+    {% endif %}
+    
     {% if page.is_post == true %}
       <script type="text/javascript">
         var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1gEMw7FskyJBwgfx8TY1jL1MtGroE4REVd4jo2eSkS6U/edit?usp=sharing';
