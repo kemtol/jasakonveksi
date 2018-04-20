@@ -254,7 +254,9 @@ img {
 #head--logo{
 	background:#ffe766;
 	.site-avatar {
-		width: 100%;
+		width: 80vw;
+		max-width: 1200px;
+		margin: auto;
 		height: 100px;
 		margin-right: 15px;
 		overflow: hidden;
@@ -274,16 +276,16 @@ img {
 		span.back-to-home{
 			position: absolute;
 			top: 50%;
-			left: 50%;
-			transform: translate(-50%, -50%);
+			left: 0;
+			transform: translate(0, -50%);
 			font-weight: bold;
 			color: #fff;
 			z-index: 1;
 			letter-spacing: 5px;
 			display: inline-block;
 			border: 3px solid;
-			padding: 1rem;
-			background: black;
+			padding: 0.75rem 1rem;
+			background: #fff;
 
 			span{
 			  letter-spacing: initial;font-weight: 300;font-family: initial;font-style: italic;
@@ -500,9 +502,9 @@ footer {
 }
 
 @media screen and (min-width: 1440px) {
-	.site-avatar{
+	/*.site-avatar{
 		height:35vh;
-	}
+	}*/
 	.site-name{
 		font-size:4rem;
 	}
