@@ -53,8 +53,6 @@
   </head>
 
   <body>
-    <div id="upper--top">Mau tanya tanya dulu? Silahkan <strong>WA: 0838-9072-2797</strong></div>
-    
     {% if page.is_landing != true %}
       <header class="masthead clearfix">
         <a href="{{ site.baseurl }}/" class="site-avatar">
@@ -63,7 +61,9 @@
             <span>Jakarta, Depok &amp; Bandung</span>
           </span>
         </a>
-
+        
+        {% include upper-top.html %}
+        
         {% include menu.html %}
         
         {% if page.is_post != true %}
