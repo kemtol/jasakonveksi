@@ -258,7 +258,6 @@ img {
 		max-width: 1200px;
 		margin: auto;
 		height: 100px;
-		margin-right: 15px;
 		overflow: hidden;
 		display: block;
 		position: relative;
@@ -279,7 +278,7 @@ img {
 			left: 0;
 			transform: translate(0, -50%);
 			font-weight: bold;
-			color: #fff;
+			color: #111;
 			z-index: 1;
 			letter-spacing: 5px;
 			display: inline-block;
