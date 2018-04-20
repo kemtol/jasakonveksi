@@ -55,12 +55,7 @@
   <body>
     {% if page.is_landing != true %}
       <header class="masthead clearfix">
-        <a href="{{ site.baseurl }}/" class="site-avatar">
-          <span class="back-to-home">
-            JASAKONVEKSI.COM<br/>
-            <span>Jakarta, Depok &amp; Bandung</span>
-          </span>
-        </a>
+        {% include head-logo.html %}
         
         {% include upper-top.html %}
         
