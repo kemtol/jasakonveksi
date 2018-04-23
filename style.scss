@@ -257,14 +257,14 @@ img {
 		width: 80vw;
 		max-width: 1200px;
 		margin: auto;
-		height: 100px;
 		overflow: hidden;
 		display: block;
 		position: relative;
-		border-radius: 5px;
-		/*background:url(https://raw.githubusercontent.com/kemtol/jasakonveksi/master/images/jasa-konveksi-jakarta-depok.gif) no-repeat;*/
-		background-size:cover;
-		background-position:center center;
+		border-radius: 0;
+		background: url(https://raw.githubusercontent.com/kemtol/jasakonveksi/master/images/jasa-konveksi-kaos-polos-jakarta.jpg) no-repeat;
+		background-size: contain;
+		background-position: 75% center;
+		height: 300px;
 
 		@include mobile {
 			height:25vh;
