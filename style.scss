@@ -167,6 +167,35 @@ img {
 	}
 }
 
+.product-list{
+	width: 80vw;
+	max-width: 1200px;
+	margin: 0;
+	margin: auto;
+	padding: 0;
+	list-style: none;
+	@include mobile{
+		width:100%;
+		max-width:960px;
+	}
+	li{
+		float: left;
+		width: 33%;
+		padding: 1rem;
+		text-align: center;
+		@include mobile{
+			width:50%;
+			padding:5px 10px;
+		}
+		a{
+			color:#111;
+			span,strong{
+				display:block;
+			}
+		}
+	}
+}
+
 .table-responsive{
 	margin: 1rem 0 2rem 0;
 	border-top:1px solid #111;
@@ -457,6 +486,10 @@ a.no-hp:hover{
 	.img-responsive{
 		display:inherit;
 	}
+}
+
+#jual--kaos--polos--nsa{
+    border-top: 1px solid #111;
 }
 
 //
