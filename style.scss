@@ -267,10 +267,13 @@ img {
 		height: 300px;
 
 		@include mobile {
-			height:25vh;
+			height:100px;
 			float: none;
 			display: block;
 			margin: 0 auto;
+			background-size:cover;
+			background-position: center center;
+			width:100vw;
 		}
 		.back-to-home{
 			position: absolute;
@@ -285,7 +288,12 @@ img {
 			border: 3px solid;
 			padding: 0.75rem 1rem;
 			background: #fff;
-
+			@include mobile{
+				top: 50%;
+				left: 50%;
+				transform: translate(-50%, -50%);
+			}
+			
 			span{
 			  letter-spacing: initial;font-weight: 300;font-family: initial;font-style: italic;
 			}
