@@ -304,11 +304,23 @@ img {
 			font-size: 1.5rem;
 			width: 50%;
 			text-align: center;
-			@include mobile{
-				display:none;
-			}
+			display:none;
 			span{
 				background:#fff;
+			}
+			a{
+				display: inline-block;
+				background: blue;
+				color: #fff;
+				padding: 10px 15px;
+				font-size: 1rem;
+				font-family: arial;
+				font-weight: bold;
+				margin-right: 5px;
+			}
+			a.x-last{
+				background:limegreen;
+				margin-right: 0px;
 			}
 		}
 	}
@@ -522,9 +534,9 @@ footer {
 }
 
 @media screen and (min-width: 1440px) {
-	/*.site-avatar{
-		height:35vh;
-	}*/
+	#punch--line{
+		display:block;
+	}
 	.site-name{
 		font-size:4rem;
 	}
