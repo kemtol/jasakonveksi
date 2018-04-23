@@ -53,6 +53,9 @@ h1 {
 
 h2 {
   font-size: 24px;
+  a {
+    color: inherit;
+  }
 }
 
 h3 {
@@ -339,7 +342,6 @@ img {
 	/*border-top:2px solid #111;*/
 	text-align:center;
 	h1,h2{
-		color:#111;
 		a:hover{
 			color:#111;
 			text-decoration:underline;
