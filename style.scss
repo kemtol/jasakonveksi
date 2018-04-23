@@ -274,13 +274,13 @@ img {
 		}
 		.back-to-home{
 			position: absolute;
-			top: 50%;
+			top: 1rem;
 			left: 0;
-			transform: translate(0, -50%);
+			transform: translate(0, 0%);
 			font-weight: bold;
 			color: #111;
 			z-index: 1;
-			letter-spacing: 5px;
+			letter-spacing: 2px;
 			display: inline-block;
 			border: 3px solid;
 			padding: 0.75rem 1rem;
