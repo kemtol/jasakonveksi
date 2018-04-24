@@ -589,14 +589,20 @@ footer {
 	#head--logo{
 		.site-avatar{
 			#punch--line{
-				display:block;
-				width: 70%;
+				width: 80%;
 			}
 		}
 	}
 }
 
 @media screen and (min-width: 1440px) {
+	#head--logo{
+		.site-avatar{
+			#punch--line{
+				width: 70%;
+			}
+		}
+	}
 	.site-name{
 		font-size:4rem;
 	}
