@@ -573,8 +573,24 @@ footer {
 }
 
 @media screen and (min-width: 639px) {
-	#head--logo .site-avatar #punch--line{
-		display:block;
+	#head--logo{
+		.site-avatar{
+			#punch--line{
+				display:block;
+				width: 100%;
+			}
+		}
+	}
+}
+
+@media screen and (min-width: 1023px) {
+	#head--logo{
+		.site-avatar{
+			#punch--line{
+				display:block;
+				width: 70%;
+			}
+		}
 	}
 }
 
