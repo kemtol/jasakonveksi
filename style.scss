@@ -58,6 +58,15 @@ h2 {
   }
 }
 
+h2.brands{
+	position:relative;
+	a.read-more{
+		position:absolute;
+		right:0;
+		font-weight:normal;
+	}
+}
+
 h3 {
   font-size: 20px;
 }
