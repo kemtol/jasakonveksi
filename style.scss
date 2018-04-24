@@ -498,10 +498,10 @@ a.no-hp:hover{
 	}
 }
 
-product-list-info{
+.product-list-info{
 	ul {
   		list-style: none;
-
+		list-style-position: inside;
 		li:before {
 			content: '✓';
 			color: limegreen;
