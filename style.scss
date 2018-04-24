@@ -275,9 +275,8 @@ img {
 		position: relative;
 		border-radius: 0;
 		background: url(https://raw.githubusercontent.com/kemtol/jasakonveksi/master/images/jasa-konveksi-kaos-polos-jakarta.jpg) no-repeat;
-		background-size: contain;
 		background-position: 75% center;
-		height: 300px;
+		height: 350px;
 
 		@include mobile {
 			height:100px;
@@ -485,9 +484,10 @@ a.no-hp:hover{
 		width: 25%;
 		padding: 0.5rem;
 		text-align: center;
+		padding-bottom: 2rem;
 		@include mobile{
 			width:50%;
-			padding:5px 10px;
+			padding:5px 10px 2rem 5px;
 		}
 		a{
 			color:#111;
@@ -499,9 +499,16 @@ a.no-hp:hover{
 }
 
 .product-list-info{
+	padding-bottom:2rem;
 	ul {
   		list-style: none;
 		list-style-position: inside;
+		background: aliceblue;
+		padding: 1.5rem 2rem 2rem 1.5rem;
+		strong{
+			margin-bottom: 0.5rem;
+			display: block;
+		}
 		li:before {
 			content: '✓';
 			color: limegreen;
