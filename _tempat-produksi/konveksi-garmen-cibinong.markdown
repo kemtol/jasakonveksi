@@ -1,7 +1,7 @@
 ---
 title: konveksi garmen cibinong
 date: 2018-10-15 08:40:00 +07:00
-permalink: "/tempat-produksi/konveksi-garmen-cibonong.html"
+permalink: "/tempat-produksi/konveksi-garmen-cibinong.html"
 categories:
 - garmen
 layout: page
